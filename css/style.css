@@ -556,21 +556,21 @@ h5{
  }
 
 .slide:nth-child(2){
-	background-image:url('/images/5.JPG');
+	background-image:url('/images/5.jpg');
 }
 
 .slide:nth-child(3){
-	background-image:url('/images/6.JPG');
+	background-image:url('/images/6.jpg');
  }
 
 .slide:nth-child(4){
-	background-image:url('/images/7.JPG');
+	background-image:url('/images/7.jpg');
  }
 .slide:nth-child(5){
-	background-image:url('/images/8.JPG');
+	background-image:url('/images/8.jpg');
  }
 .slide:nth-child(6){
-	background-image:url('/images/9.JPG');
+	background-image:url('/images/9.jpg');
  }
 /*/gallery*/
 
